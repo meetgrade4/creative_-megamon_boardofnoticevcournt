@@ -1,0 +1,27 @@
+.sword{
+    box-shadow: 0px 0px 30px blue;
+}
+
+.gun{
+    box-shadow: 0px 0px 30px red;
+}
+
+.copywrite{
+    background-color: chartreuse;
+    bottom: 0;
+    margin-bottom: 0;
+    position: fixed;
+    line-height: 2;
+}
+
+canvas{
+
+    box-shadow: 0px 0px 30px chartreuse;
+    border: 1px solid green;
+    background-color: orange;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+}
